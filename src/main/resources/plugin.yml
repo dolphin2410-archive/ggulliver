@@ -1,0 +1,9 @@
+name: ggulliver
+author: dolphin2410
+main: me.dolphin2410.buzz.BuzzPlugin
+version: 1.0.0
+api-version: 1.19
+libraries:
+  - io.github.monun:tap-core:4.7.3
+  - io.github.monun:heartbeat-coroutines:0.0.4
+  - io.github.monun:kommand-core:2.14.0
